@@ -1,4 +1,4 @@
-# Based on the output data from [here](http://www.pdas.com/atmosdownload.html), get the pt- profile of the earth using interpolation 
+# Based on the data from [here](http://www.pdas.com/atmosdownload.html), get the pt- profile of the earth using interpolation 
 
 If you want to get the pt-profile of the Earth, you can just open the notebook of step 2.
 
